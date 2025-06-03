@@ -1,7 +1,7 @@
 # Acapella Extractor - Extract Vocals, Drums, Bass & Other Stems From Any Song
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen)](https://acapellaextractors.com/)
-[![MIT License](https://img.shields.io/github/license/spotdl/spotify-downloader?color=44CC11&style=flat-square)](https://github.com/vijaykrpp/acapella-extractor/blob/main/LICENSE)
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen)](https://translatesubtitlesonline.com/)
+[![MIT License](https://img.shields.io/github/license/spotdl/spotify-downloader?color=44CC11&style=flat-square)](https://github.com/vijaykrpp/translate-subtitles-online/blob/main/LICENSE)
 
 <table><tr><td> <img src="https://img001.prntscr.com/file/img001/weHe0DnCQMes0oS-LlPP9w.png" alt="acapella extractor home page"></td><td><img src="https://img001.prntscr.com/file/img001/Gg8Cx-tUSaqUO6u07MLxaA.png" alt="select output file format"></td></tr>
 <tr><td> <img src="https://img001.prntscr.com/file/img001/FJcUg_f1TlWaJ5_WMUMsfg.png" alt="progress bar"></td><td><img src="https://img001.prntscr.com/file/img001/g3qWk9IORtGzSi9y3mNjVQ.png" alt="extracted results"></td></tr>
