@@ -19,15 +19,15 @@ No need to install any software or shady APKs—we support automatic subtitle tr
 
 ## Features
 
--🌐 Supports 193 Languages – Translate subtitles across a vast range of global languages with precision.
--📁 Multiple Subtitle Formats – Compatible with .srt, .vtt, .sub, .ass, .sbv, and .stl formats for maximum flexibility.
+🌐 Supports 193 Languages – Translate subtitles across a vast range of global languages with precision.
+📁 Multiple Subtitle Formats – Compatible with .srt, .vtt, .sub, .ass, .sbv, and .stl formats for maximum flexibility.
 📝 Editable Translations – Review and fine-tune translated subtitles before downloading to ensure top quality.
--Fast & Efficient Processing – Lightning-fast translations with optimized performance for a seamless experience.
--⬇️ One-Click Download – Download translated files instantly in your preferred format.
--🌍 Cross-Platform Compatibility – Works smoothly on desktop, tablet, and mobile browsers—no installation needed.
--💻 User-Friendly Interface – Clean, responsive, and intuitive design suitable for both casual users and professionals.
--🔐 100% file privacy – auto-deleted after processing.
--💬 No sign-up needed for quick translations.
+Fast & Efficient Processing – Lightning-fast translations with optimized performance for a seamless experience.
+⬇️ One-Click Download – Download translated files instantly in your preferred format.
+🌍 Cross-Platform Compatibility – Works smoothly on desktop, tablet, and mobile browsers—no installation needed.
+💻 User-Friendly Interface – Clean, responsive, and intuitive design suitable for both casual users and professionals.
+🔐 100% file privacy – auto-deleted after processing.
+💬 No sign-up needed for quick translations.
 
 ## 🚀 Live Demo
 
