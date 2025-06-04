@@ -1,10 +1,10 @@
-# Free Online Subtitles Translator, Converter & editor in 193 languages. Supports srt, vtt, sub & more
+# Free Online Subtitles Translator, Converter & Editor in 193 Languages. Supports SRT, VTT, SUB & more.
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen)](https://translatesubtitlesonline.com/)
 [![MIT License](https://img.shields.io/github/license/spotdl/spotify-downloader?color=44CC11&style=flat-square)](https://github.com/vijaykrpp/translate-subtitles-online/blob/main/LICENSE)
 
-<table><tr><td> <img src="https://img001.prntscr.com/file/img001/weHe0DnCQMes0oS-LlPP9w.png" alt="acapella extractor home page"></td><td><img src="https://img001.prntscr.com/file/img001/Gg8Cx-tUSaqUO6u07MLxaA.png" alt="select output file format"></td></tr>
-<tr><td> <img src="https://img001.prntscr.com/file/img001/FJcUg_f1TlWaJ5_WMUMsfg.png" alt="progress bar"></td><td><img src="https://img001.prntscr.com/file/img001/g3qWk9IORtGzSi9y3mNjVQ.png" alt="extracted results"></td></tr>
+<table><tr><td> <img src="https://img001.prntscr.com/file/img001/rvMIzxkhSbCcuca7ntPWhw.png" alt="subtitle translator screenshot"></td><td><img src="https://img001.prntscr.com/file/img001/PpF0mtOLT9KDqCT69RVcSA.png" alt="select output file format"></td></tr>
+<tr><td> <img src="https://img001.prntscr.com/file/img001/NYOuEiduRUqRgKSu_uLs_w.png" alt="progress bar"></td><td><img src="https://img001.prntscr.com/file/img001/gFjVkLkyRve38F2vVngtWg.png" alt="subtitle converter screenshot"></td></tr>
 </table>
 
 ## 🌟 Introduction
