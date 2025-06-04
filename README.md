@@ -31,7 +31,7 @@ No need to install any software or shady APKs—we support automatic subtitle tr
 
 ## 🚀 Live Demo
 
-Experience the Acapella Extractor now:  
+Experience the online subtitle translator now:  
 👉 [https://translatesubtitlesonline.com/](https://translatesubtitlesonline.com/)
 
 ## ✨ Technology Stack
