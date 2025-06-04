@@ -1,4 +1,4 @@
-# Acapella Extractor - Extract Vocals, Drums, Bass & Other Stems From Any Song
+# Free Online Subtitles Translator, Converter & editor in 193 languages. Supports srt, vtt, sub & more
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Demo-brightgreen)](https://translatesubtitlesonline.com/)
 [![MIT License](https://img.shields.io/github/license/spotdl/spotify-downloader?color=44CC11&style=flat-square)](https://github.com/vijaykrpp/translate-subtitles-online/blob/main/LICENSE)
@@ -9,46 +9,43 @@
 
 ## 🌟 Introduction
 
-Easily extract acapella from songs in MP3, WAV, ALAC, AAC, and many other formats using our streamlined online tool. AcapellaExtractors.com is a completely free platform that lets you isolate vocals, drums, bass, and additional stems from any audio track — no payment required.
+Easily translate subtitles using our free online tool. TranslateSubtitlesOnline.com supports all major subtitle formats including SRT, VTT, ASS, SBV, SUB, and STL. With support for over 190 languages, you can convert your subtitle files into your preferred language quickly and efficiently—completely free of charge.
 
-The tool is secure, intuitive, and entirely ad-free. You can download all separated files in high quality without interruptions.
+Our translator is secure, simple to use, and 100% ad-free. Translated subtitle files can be downloaded instantly without pop-ups or distractions.
 
-It supports a wide range of file types, making it easy to remove vocals from MP3s and more — all without needing to install software or sketchy APKs (we’re not fans of those either).
+Compatible with all major browsers like Google Chrome, Mozilla Firefox, Safari, Opera, and other Chromium-based browsers, our tool ensures a smooth and reliable user experience.
+
+No need to install any software or shady APKs—we support automatic subtitle translation from multiple file types including SRT, so you can get started instantly right from your browser.
 
 ## Features
 
-- 🎵 Studio-quality vocal and instrumental separation using Demucs AI.
-- 🔄 Extract multiple stems — vocals, drums, bass, and more — from any audio file.
-- 📁 Drag and drop support for easy and fast uploads.
-- 🎧 Instant preview of separated stems before download.
-- 🗃️ Supports MP3, WAV, ALAC, AAC, and 9 other audio input formats.
-- Supports output in MP3, FLAC, and WAV formats.
-- 📱 Mobile-friendly interface for usage on the go.
-- 🔐 100% file privacy — all files are auto-deleted after processing.
-- 💬 No sign-up required for quick and hassle-free downloads.
-- Compatible with Google Chrome, Mozilla Firefox, Safari, Opera, and all Chromium-based browsers.
+-🌐 Supports 193 Languages – Translate subtitles across a vast range of global languages with precision.
+--📁 Multiple Subtitle Formats – Compatible with .srt, .vtt, .sub, .ass, .sbv, and .stl formats for maximum flexibility.
+📝 Editable Translations – Review and fine-tune translated subtitles before downloading to ensure top quality.
+-Fast & Efficient Processing – Lightning-fast translations with optimized performance for a seamless experience.
+-⬇️ One-Click Download – Download translated files instantly in your preferred format.
+-🌍 Cross-Platform Compatibility – Works smoothly on desktop, tablet, and mobile browsers—no installation needed.
+-💻 User-Friendly Interface – Clean, responsive, and intuitive design suitable for both casual users and professionals.
+-🔐 100% file privacy – auto-deleted after processing.
+-💬 No sign-up needed for quick translations.
 
 ## 🚀 Live Demo
 
 Experience the Acapella Extractor now:  
-👉 [https://acapellaextractors.com/](https://acapellaextractors.com/)
+👉 [https://translatesubtitlesonline.com/](https://translatesubtitlesonline.com/)
 
 ## ✨ Technology Stack
 
-- **Frontend/Backend**: PHP, Python, Bootstrap 5, jQuery
-- **AI Engine**: Meta's Demucs
+- **Frontend/Backend**: PHP, Bootstrap 5, jQuery
 - **UI/UX**: HTML, CSS, JS
 - **Hosting**: Apache/Nginx, Ubuntu compatible
 
 ## 📌 SEO Keywords
 
-Acapella extractor online | mp3 to acapella | vocal extractor | vocal remover | online vocal remover free | vocal extractor software | online acapella maker | vocal stem extractor | ai vocal remover free | music extractor from song
+translate subtitles | subtitle converter online | convert subtitles to srt | subtitle file translator online | translate vtt file | srt file converter | best subtitle translator | convert subtitles online | subtitle converter tool
 
 ## 📋 Installation Guide
 
 ### Requirements:
 - PHP 7.4+
 - MySQL (optional)
-- Meta Demucs
-- Python
-- Django
